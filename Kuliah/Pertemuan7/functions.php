@@ -24,7 +24,7 @@ function query($query)
 
 return $rows;
 }
-
+ 
 function tambah($data)
 {
   $conn = koneksi(); 
